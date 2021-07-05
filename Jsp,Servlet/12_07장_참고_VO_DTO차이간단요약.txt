@@ -1,0 +1,5 @@
+DTO(Data Transfer Object)
+VO(Value Object)
+공통점: 컨트롤러에 전달되는 데이터를 수집하는 용도로 사용
+차이점: DTO - 화면에서 전달되는 데이터
+VO - 테이블 구조를 이용해서 전달되는 데이터
